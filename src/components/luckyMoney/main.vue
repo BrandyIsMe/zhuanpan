@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
     <div class="page-container">
       <button @click="handleStartActivity">开启活动</button>
       <div
@@ -144,4 +144,4 @@
       }
     }
   }
-  </style> -->
+  </style>

@@ -1,4 +1,4 @@
-const baseSize = 37.5
+const baseSize = 75
 function setRem (){
     const scale = document.documentElement.clientWidth / 750
     document.documentElement.style.fontSize = baseSize * Math.min(scale) + 'px'    
